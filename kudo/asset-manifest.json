@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83c89ad1.chunk.css",
+    "main.js": "/static/js/main.8bb6ca37.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.fd268d29.js",
+    "static/css/2.99600032.chunk.css": "/static/css/2.99600032.chunk.css",
+    "static/js/2.ddd6d24f.chunk.js": "/static/js/2.ddd6d24f.chunk.js",
+    "static/js/3.70b0c363.chunk.js": "/static/js/3.70b0c363.chunk.js",
+    "e7e915313973ba1d49f9bb2a1998626e.js": "/e7e915313973ba1d49f9bb2a1998626e.js",
+    "e7e915313973ba1d49f9bb2a1998626e.js.LICENSE.txt": "/e7e915313973ba1d49f9bb2a1998626e.js.LICENSE.txt",
+    "index.html": "/index.html",
+    "static/js/2.ddd6d24f.chunk.js.LICENSE.txt": "/static/js/2.ddd6d24f.chunk.js.LICENSE.txt",
+    "static/media/Certificate.201c101e.pdf": "/static/media/Certificate.201c101e.pdf",
+    "static/media/Ubuntu-Regular.fbdecfce.ttf": "/static/media/Ubuntu-Regular.fbdecfce.ttf",
+    "static/media/alegreya.5eb236c6.ttf": "/static/media/alegreya.5eb236c6.ttf",
+    "static/media/kudo_template.1c91829e.pdf": "/static/media/kudo_template.1c91829e.pdf",
+    "static/media/logo.45acdbd0.png": "/static/media/logo.45acdbd0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd268d29.js",
+    "static/css/2.99600032.chunk.css",
+    "static/js/2.ddd6d24f.chunk.js",
+    "static/css/main.83c89ad1.chunk.css",
+    "static/js/main.8bb6ca37.chunk.js"
+  ]
+}
